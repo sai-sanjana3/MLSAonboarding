@@ -21,7 +21,7 @@ import React from "react";
  */
 import image from "../images/socials/3.jpg";
 
-const imageAltText = "simple background image";
+const imageAltText = "Simple background image";
 
 /**
  * Project list
