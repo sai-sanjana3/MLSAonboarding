@@ -27,12 +27,12 @@ const siteProps = {
   name: "Gedda Sai Sanjana",
   title: "Web development",
   email: "gedda.saisanjana@studentambassadors.com",
-  gitHub: "https://github.com/sai-sanjana3",
-  instagram: "https://www.instagram.com/sai_sanjana3/",
-  linkedIn: "https://www.linkedin.com/in/gedda-sai-sanjana-b283401b9/",
+  gitHub: "sai-sanjana3",
+  instagram: "sai_sanjana3",
+  linkedIn: "gedda-sai-sanjana-b283401b9",
   medium: "",
-  twitter: "https://twitter.com/GeddaSanjana",
-  youTube: "Code",
+  twitter: "GeddaSanjana",
+  youTube: "",
 };
 
 const primaryColor = "#4E567E";
